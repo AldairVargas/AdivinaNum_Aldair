@@ -32,3 +32,5 @@ def adivina_num():
             print("Opción no válida. Por favor, elige 1 o 2.")
 
 adivina_num()
+
+#confirmacion con jira
